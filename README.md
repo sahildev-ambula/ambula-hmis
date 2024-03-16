@@ -4,7 +4,6 @@ First, you will need to start **Metro**, the JavaScript _bundler_ that ships _wi
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
-```bash
 # using npm
 npm start
 
@@ -14,18 +13,15 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 
 ### For Web
 
-```bash
 # using npm
 npm run web
 
 ### For Android
 
-```bash
 # using npm
 npm run android
 
 ### For iOS
 
-```bash
 # using npm
 npm run ios
