@@ -4,14 +4,13 @@ function App() {
   return (
     <View
       style={{
-        backgroundColor: 'wheat',
+        backgroundColor: 'green',
         height: '100%',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        
       }}>
-      <Text>Hi, I'm Sahil. Welcome to HMIS</Text>
+      <Text>Hi, Namita. Welcome to HMIS</Text>
     </View>
   );
 }
